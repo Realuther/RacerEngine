@@ -1,0 +1,11 @@
+H:\RacerRepoDIR\RacerEnginePro\bin\Debug\RacerEngine.exe.config
+H:\RacerRepoDIR\RacerEnginePro\bin\Debug\RacerEngine.exe
+H:\RacerRepoDIR\RacerEnginePro\bin\Debug\RacerEngine.pdb
+H:\RacerRepoDIR\RacerEnginePro\bin\Debug\OpenTK.dll
+H:\RacerRepoDIR\RacerEnginePro\bin\Debug\OpenTK.pdb
+H:\RacerRepoDIR\RacerEnginePro\bin\Debug\OpenTK.xml
+H:\RacerRepoDIR\RacerEnginePro\obj\Debug\RacerEngine.csprojAssemblyReference.cache
+H:\RacerRepoDIR\RacerEnginePro\obj\Debug\RacerEngine.csproj.CoreCompileInputs.cache
+H:\RacerRepoDIR\RacerEnginePro\obj\Debug\RacerEngine.csproj.CopyComplete
+H:\RacerRepoDIR\RacerEnginePro\obj\Debug\RacerEngine.exe
+H:\RacerRepoDIR\RacerEnginePro\obj\Debug\RacerEngine.pdb
